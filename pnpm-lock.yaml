@@ -51,6 +51,7 @@ importers:
       babel-plugin-dynamic-import-node: 2.3.3
       babel-plugin-emotion: 10.0.33
       codecov: 3.6.1
+      core-js: 3.6.5
       cross-env: 7.0.2
       detect-secrets: 1.0.6
       eslint: 7.5.0
@@ -137,6 +138,7 @@ importers:
       babel-plugin-dynamic-import-node: 2.3.3
       babel-plugin-emotion: 10.0.33
       codecov: 3.6.1
+      core-js: 3.6.5
       cross-env: 7.0.2
       detect-secrets: 1.0.6
       eslint: 7.5.0
